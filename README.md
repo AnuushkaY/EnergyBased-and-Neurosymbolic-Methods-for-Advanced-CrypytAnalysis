@@ -122,14 +122,6 @@ Deep learning acts as **feature extractor + template attack**
 
 ---
 
-# Advantages of Deep Learning in SCA
-
-- Automatic leakage detection  
-- Robust to noise and misalignment  
-- No manual feature selection  
-
----
-
 # Future Scope
 
 | Challenge | Direction |
