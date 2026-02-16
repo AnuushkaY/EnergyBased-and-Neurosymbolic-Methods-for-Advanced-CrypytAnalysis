@@ -92,17 +92,9 @@ Power ∝ HW(intermediate value)
 
 ## SPECK32 Synthetic Dataset
 
-| Parameter | Value |
-|-----------|-------|
-Traces | 10,000 |
-Trace length | 88 samples |
-Leakage points | Rotation, Add, XOR, Mix |
-Noise | Gaussian + desynchronization |
-Key | Fixed |
-
 CNN learns:
 
-trace → key class
+trace -> key class
 
 Metric: **Key Rank (Rank 0 = success)**
 
